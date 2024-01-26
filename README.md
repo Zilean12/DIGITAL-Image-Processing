@@ -15,7 +15,7 @@ Follow these steps to get started with digital image processing:
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/Zilean12/digital-image-processing.git
+    git clone https://github.com/Zilean12/DIGITAL-Image-Processing.git
     ```
 
 2. Install the required dependencies.
